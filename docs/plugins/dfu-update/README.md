@@ -1,7 +1,7 @@
 # Dfu Update
 
 ```
-$ ionic cordova plugin add cordova-plugin-dfu-update --variable ANDROID_NORDIC_VERSION="1.11.0"
+$ ionic cordova plugin add cordova-plugin-dfu-update --variable ANDROID_NORDIC_VERSION="1.12.0"
 $ npm install @awesome-cordova-plugins/dfu-update
 ```
 
